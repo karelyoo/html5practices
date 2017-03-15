@@ -1,0 +1,50 @@
+	body{
+		background: #90caf9;
+		background-size: cover;
+    }
+	body h1{
+		font-style: italic;
+		text-align: center;
+	}
+	
+	body h2{
+		margin-left: 250px;
+	}
+
+	body ol{
+		margin-left: 260px; 
+		color: green;
+	}
+
+	body h3{
+		text-align: right; 
+		margin-top: -385px;
+		margin-right: 300px;
+	}
+
+	body ul{
+		list-style-type: none;
+		text-align: right;
+		margin-top: 240px;
+	    margin-right: 260px;
+		color: green;
+	}
+
+	body h4{
+		text-align: center;
+	}
+
+	body h5{
+		text-align: center;
+	}
+
+	.links{
+		text-align: center;
+	}
+
+	.addr{
+		text-align: center;
+		
+	}
+
+	

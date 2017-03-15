@@ -1,0 +1,80 @@
+body {
+    font-family: arial; 
+}
+
+header #logo {
+    float:left;
+}
+
+header {
+    display:block;
+    height:80px;
+    width:100%;
+    padding:0px 0px 0px 0px;
+    margin:0px 25px;
+    float:left;
+}
+
+aside{
+    float: right;
+    display: inline-block;
+    width: 250px;
+    border: 3px;
+    border-style: solid;
+    border-color: #00acc1;
+    margin-top: -38%;
+    margin-right: 2%;
+    padding-right: 12px;
+    background: #b2dfdb;
+    text-align: left;
+    list-style: none;
+   
+}
+
+#contenido {
+    float:left;
+    width: 70%;
+    border:solid #b2dfdb;
+    margin-top: 5px;
+}
+
+article header {
+    margin-left: 0px;
+    margin-bottom: -3%;
+    font-family: "Courier New";
+    font-size:large;
+    letter-spacing: 4px;
+    color: #000000;
+}
+
+header hgroup {
+    display: block;
+    float: right; 
+    margin-right: 50px;  
+    margin-top: -25px;
+    color: #1e88e5;
+}
+
+section#contenido h2 {
+    margin-left: 2%;
+    float: right;
+    margin-right: 10px;
+    font-size: xx-large;
+    color: #1e88e5;
+}
+
+nav {
+    display: inline-block;
+    clear: both;
+    text-align: center;
+    width: 100%;
+    background-color: #eee;
+    font-size: small;
+    letter-spacing: 4px;
+    border-style: outset;
+    border-color: #b2dfdb;
+   }
+
+nav#clase1 li {
+    display: inline-block;
+}

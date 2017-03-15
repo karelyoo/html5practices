@@ -1,0 +1,49 @@
+body{
+	background: url(https://es.best-wallpaper.net/wallpaper/1920x1200/1209/HTML5-hypertext-markup-language-logo_1920x1200.jpg);
+	background-size: 2000px 500px;
+}
+
+#header h1{
+	color: red;
+}
+
+body h1, h2{
+	text-align: center;
+}
+
+body ul{
+	list-style-type: none;
+	
+}
+
+#logo{
+	margin-top: -100px;
+	margin-left: 10px;
+}
+
+#footer{
+	text-align: center;
+}
+#main li{
+	display: inline-block;
+}
+
+aside{
+
+	margin-left: 35%;
+	background: #e65100;
+	width: 25%;	
+	border: 3px;
+}
+
+#main a{
+	text-align: left;
+}
+
+#sidenav li{
+	text-align: center;
+}
+
+#partnerlinks li{
+	text-align: center;
+}

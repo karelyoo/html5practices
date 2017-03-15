@@ -1,0 +1,33 @@
+header{
+	color: #1a237e;
+	height: 15%;
+	line-height: 400%;
+	background: #90a4ae;
+	margin-bottom: 1%;
+	text-align: center;
+}
+
+body{
+	font-family: georgia;
+}
+
+body h2 {
+	margin-left: 2%;
+	color: #4e342e;
+	font-family: verdana;
+}
+
+
+
+article h3 {
+	margin-top: -1%;
+	margin-left: 2%;
+	font-family: arial;	
+    font-size: 20px;
+    display: initial;
+}
+
+article p {
+	display: initial;
+}
+

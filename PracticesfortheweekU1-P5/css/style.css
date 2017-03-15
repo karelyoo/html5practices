@@ -1,0 +1,65 @@
+ header{
+    color: white;
+    height: 300px;
+    line-height: 300px;
+    text-align: center;
+    background: url(../public/img/head.jpg);
+    background-size: 50%;
+    margin-bottom: 10px;
+    border:double;
+    border-color: #e65100 #e65100;
+}
+
+body {
+	background: url(http://linuxzone.es/app/uploads/2008/03/ejemplo.png);
+	background-size: cover;
+	font-family: verdana;
+	color: white;
+}
+
+body h1{
+ 	text-align: center;
+ 	}
+
+aside{
+	margin-top: 2%;
+	background: black;
+	text-align: center;
+	list-style: none;
+	width:15%;
+	float: left;
+	border: 5px;
+	border-style: double;
+	border-color: #e65100 #e65100;
+}
+
+.main{
+	margin-top: 2%;
+	background: black;
+	text-align: center;
+	border: solid;
+	border-color: #e65100 #e65100; 
+	display: inline-block;
+	margin-left: 15%;	
+}
+
+.last-posts {
+	margin-top: 2%;
+	background: black;
+	text-align: center;
+	list-style: none;
+	width: 25%;
+	border: double;
+	border-color: #e65100 #e65100;
+	float: right;
+}
+
+footer{
+	margin-top: 2%;
+	background: #e65100;
+	padding: 2%;
+}
+
+footer a{
+	color: black;
+}

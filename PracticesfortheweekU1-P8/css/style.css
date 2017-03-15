@@ -1,0 +1,54 @@
+body {
+	background: #ffa726;
+}
+
+section {
+	background: #ffd54f;
+	margin-top: 2%;
+	margin-left: 2%;
+	text-align: center;
+	width: 50%;
+	height: 400px;
+	border: 10px;
+	border-style: double;
+	border-color: #ffa726;
+
+}
+
+section h2{
+	font-family: arial black;
+	color: black;
+	margin-top: 10%;
+
+}
+
+aside {
+	margin-top: -31%;
+    background: #ffd54f;
+     width: 40%;
+    height: 400px;
+    border: 10px;
+    border-style: double;
+    border-color: #ffa726;
+    float: right;	
+    text-align: center;
+    list-style: none;
+}
+
+nav li{
+	text-align: center;
+	font-family: arial;
+	font-size: xx-large;
+}
+
+footer{
+	margin-top: 8%;
+	background: #ffd54f;
+	padding: 2%;
+}
+
+footer a{
+	color: black;
+	font-family: arial;
+	font-size: large;
+}
